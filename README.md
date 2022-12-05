@@ -2,4 +2,4 @@
 
 Cheatsheets I have created 
 
-- [index](/) 
+- [index](/blob/main/index.md)
